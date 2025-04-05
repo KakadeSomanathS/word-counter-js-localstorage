@@ -14,9 +14,9 @@ This is a simple word counter built using HTML, CSS, and JavaScript.
 2. Start typing in the text area.
 3. The character/word count updates instantly.
 
-## Screenshot
+## Project URL
 
-![Screenshot](screenshot.png)
+[click here](https://real-word-counter-js.netlify.app/)
 
 ## Author
 
